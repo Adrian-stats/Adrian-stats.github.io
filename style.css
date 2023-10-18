@@ -9,3 +9,16 @@ p {
 h1 {
     font-size: 2em;
 }
+
+.nameDiv {
+    background: #97B092;
+    color: white;
+}
+.locDiv {
+    background: #77B07E;
+    color: white;
+}
+.titleDiv {
+    background: #45E560;
+    color: white;
+}
